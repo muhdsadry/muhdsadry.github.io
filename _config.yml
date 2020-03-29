@@ -1,17 +1,18 @@
-title: Muhamad Sadry Abu Seman # your name (or website title) here
+title: Sadry Abu Seman # your name (or website title) here
 logo: "/images/Profile-Picture.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
+  <br>
+  About Me:<br>
   <br>
   An Assistant Professor, software engineer, web and mobile developer currently living in the 
   Federal Territory of Kuala Lumpur, Malaysia.
   <br><br>
   Research Areas:<br>
-  <ul>
-  <li>Visual Programming</li>
-  <li>Learning Analytics</li>
-  <li>Computer Science Pedoggy</li>
-  </ul>
-  <br><br>
+  <br>
+  - Visual Programming<br>
+  - Learning Analytics<br>
+  - Computer Science Pedoggy<br>
+  <br>
   <a href="https://my.linkedin.com/in/sadry-abu-seman-93726b25">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
