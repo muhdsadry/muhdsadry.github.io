@@ -1,4 +1,4 @@
-## Who Am I?
+## Hi, I'm Sadry
 
 ---
 I obtained my **B.Sc.**, (Hon) and **M.Sc.**, from **MARA University of Technology (UiTM)**, Shah Alam in Information Technology and my **D.Sc.**, from **Robert Morris University in Pittsburgh, USA**. My doctoral research focused on visual programming as part of learning and teaching tool for object-oriented programming. Prior to joining IIUM, I worked in IT industry for 4 years as a **Software Engineer** in two companies. I developed software that used three-tier architecture framework for internal and external use for the companies. 
