@@ -1,9 +1,9 @@
 ## Hi, I'm Sadry
 
 ---
-I conducted a research on **visual programming** as part of learning and teaching tool for object-oriented programming for my doctoral degree. Before joining academia, I worked in IT industry for almost 4 years as a Software Engineer in two companies. I developed several software that used three-tier architecture framework for internal and external use for the companies. 
+I conducted a research on **visual programming** as part of learning and teaching tool for object-oriented programming for my doctoral degree. Before joining academia, I worked in IT industry for almost 4 years as a Software Engineer in two companies. 
 
-Based on my working experience, I has been assigned to teach various programming courses at my faculty. The courses that I has taught include **C++**, **C**, **JAVA**, **PHP & MySQL**, and **JAVA Web technologies**. I have also been given a role as a coach for ACMICPC programming contest in 2007, 2008 and 2014 to train IIUM students for national and regional programming competitions. I was given the **Best Teacher Award** in 2008. 
+Based on my working experience, I has been assigned to teach various programming courses at my faculty. The courses that I has taught include **C++**, **C**, **JAVA**, **PHP & MySQL**, and **JAVA Web technologies**. I have also been given a role as a coach for ACMICPC programming contest in 2007, 2008 and 2014 to train IIUM students for national and regional programming competitions. I was given the **Best Teacher Award** at the university level in 2008. 
 ### Category Name 1 
 
 [Project 1 Title](/sample_page)
