@@ -1,9 +1,9 @@
-## Hi, I'm Sadry
+##   Hi, I'm Sadry
 
 ---
 I conducted a research on **visual programming** as part of learning and teaching tool for object-oriented programming for my doctoral degree. Before joining academia, I worked in IT industry for almost 4 years as a Software Engineer. 
 
-## Courses
+##   Courses
 
 
 [Project 1 Title](/sample_page)
