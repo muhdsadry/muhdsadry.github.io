@@ -55,11 +55,18 @@ I believe every student has different learning curve. Some are late and some are
 
 #### Phd Students
 
+
+#### Undergraduate Students (Final Year Project)
+
 ---
 
 ### Publications
 ---
+You can refer to my **Google Scholar** for the list of publications. These publications include journal, conference and book chapter.
+- [Google Scholar](https://scholar.google.com/citations?hl=en&user=gL0AmN4AAAAJ&view_op=list_works&sortby=pubdate)
 
+
+---
 
 ### SDG Project
 ---
