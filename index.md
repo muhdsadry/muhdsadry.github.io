@@ -71,7 +71,8 @@ You can refer to my **Google Scholar** for the list of publications. These publi
 
 ### SDG Project
 ---
-I am currently involved in IIUM Flagship Project E-Scroll, which is part of IIUM Sustainability Development Goals. This project uses blockchain technology to prevent issuance of fake diplomas and degrees from Malaysian Universities. You can refer to the [E-Scroll: Comprehensive Academic Assurance](http://www.iium.edu.my/kulliyyah/kict/flagship-projects) official flagship project website.
+I am currently involved in IIUM Flagship Project E-Scroll, which is part of IIUM Sustainability Development Goals. This project uses blockchain technology to prevent issuance of fake diplomas and degrees from Malaysian Universities. You can refer to the following website for the details.
+- [E-Scroll: Comprehensive Academic Assurance](http://www.iium.edu.my/kulliyyah/kict/flagship-projects)
 
 ### Application Development Projects
 ---
