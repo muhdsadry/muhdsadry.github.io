@@ -21,8 +21,7 @@ I am currently conducting research in the following areas:
 ### Teaching Philosophy
 
 ---
-#### Experiential Learning
-
+I believe every student has different learning curve. Some are late and some ar early bloomers. This learning curve differe in terms of their learning style.
 
 ---
 
