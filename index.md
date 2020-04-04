@@ -13,6 +13,7 @@ I am currently conducting research in the following research areas:
 - Learning Analytics
 - E-learning
 
+---
 
 ### Courses Taught
 ---
@@ -31,6 +32,8 @@ I am currently conducting research in the following research areas:
 - Enterprise Integration
 - Data Warehousing & Modelling
 - Tools for Data Science
+
+---
 
 ### Phd Supervision
 ---
