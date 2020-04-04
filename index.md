@@ -15,6 +15,7 @@ I am actively doing research on the following areas:
 - Computer Science Pedagogy
 - Learning Analytics
 - E-learning
+- Blockchain
 
 
 ---
@@ -63,14 +64,14 @@ I believe every student has different learning curve. Some are late and some are
 ### Publications
 ---
 You can refer to my **Google Scholar** for the list of publications. These publications include journal, conference and book chapter.
-- [Google Scholar](https://scholar.google.com/citations?hl=en&user=gL0AmN4AAAAJ&view_op=list_works&sortby=pubdate)
+- [Google Scholar](https://scholar.google.com/citations?user=5jaLAUsAAAAJ&hl=en)
 
 
 ---
 
 ### SDG Project
 ---
-
+I am currently involved in IIUM Flagship Project E-Scroll, which is part of IIUM Sustainability Development Goals. This project uses blockchain technology to prevent issuance of fake diplomas and degrees from Malaysian Universities. You can refer to the [E-Scroll: Comprehensive Academic Assurance](http://www.iium.edu.my/kulliyyah/kict/flagship-projects) official flagship project website.
 
 ### Application Development Projects
 ---
