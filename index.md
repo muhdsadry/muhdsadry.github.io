@@ -27,6 +27,7 @@ I believe every student has different learning curve. Some are late and some are
 
 ### Courses Taught
 ---
+
 #### Undergraduate Courses:
 - Mobile Application Development (React Native)
 - Web Technologies (HTML, CSS & JavaScript)
@@ -46,9 +47,15 @@ I believe every student has different learning curve. Some are late and some are
 
 ---
 
-### Phd Supervision
+### Student Supervision
 ---
 
+#### Master Students
+
+
+#### Phd Students
+
+---
 
 ### Publications
 ---
