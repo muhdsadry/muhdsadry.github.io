@@ -10,7 +10,7 @@ I conducted a research on **visual programming** as part of learning and teachin
 
 ###   Research Areas
 ---
-I am currently conducting research in the following research areas:
+I am currently conducting research in the following areas:
 - Visual Programming
 - Computer Science Pedagogy
 - Learning Analytics
@@ -21,7 +21,7 @@ I am currently conducting research in the following research areas:
 ### Teaching Philosophy
 
 ---
-t
+#### Experiential Learning
 
 
 ---
