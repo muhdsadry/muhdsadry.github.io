@@ -3,7 +3,7 @@
 
 ###   Hi, I'm Sadry
 ---
->I conducted a research on **visual programming** as part of learning and teaching tool for object-oriented programming for my >doctoral degree. Before joining academia, I worked in IT industry for almost 4 years as a Software Engineer. I am currently >teaching web and mobile application development courses at International Islamic University Malaysia (IIUM). 
+I conducted a research on **visual programming** as part of learning and teaching tool for object-oriented programming for my doctoral degree. Before joining academia, I worked in IT industry for almost 4 years as a Software Engineer. I am currently teaching web and mobile application development courses at International Islamic University Malaysia (IIUM). 
 
 
 ---
