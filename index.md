@@ -66,16 +66,18 @@ I believe every student has different learning curve. Some are late and some are
 You can refer to my **Google Scholar** for the list of publications. These publications include journal, conference and book chapter.
 - [Google Scholar](https://scholar.google.com/citations?user=5jaLAUsAAAAJ&hl=en)
 
-
 ---
 
 ### SDG Project
 ---
-I am currently involved in IIUM Flagship Project E-Scroll, which is part of IIUM Sustainability Development Goals. This project uses blockchain technology to prevent issuance of fake diplomas and degrees from Malaysian Universities. You can refer to the following website for the details.
+I am currently involved in **E-Scroll Flagship Project**, which is part of IIUM Sustainability Development Goals. This project uses blockchain technology to prevent issuance of fake diplomas and degrees from Malaysian Universities. You can refer to the following website for the details.
 - [E-Scroll: Comprehensive Academic Assurance](http://www.iium.edu.my/kulliyyah/kict/flagship-projects)
+
+---
 
 ### Application Development Projects
 ---
+#### Faculty Projects
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -90,7 +92,7 @@ I am currently involved in IIUM Flagship Project E-Scroll, which is part of IIUM
 
 ---
 
-### Category Name 2
+#### Consultancy Project
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
@@ -98,7 +100,6 @@ I am currently involved in IIUM Flagship Project E-Scroll, which is part of IIUM
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
----
 
 
 
