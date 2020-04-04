@@ -51,7 +51,7 @@ I believe every student has different learning curve. Some are late and some are
 ### Student Supervision
 ---
 
-- #### Master Students
+#### Master Students
 
 
 #### Phd Students
