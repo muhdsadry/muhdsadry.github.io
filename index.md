@@ -8,15 +8,28 @@ I conducted a research on **visual programming** as part of learning and teachin
 ---
 I am currently conducting research in the following research areas:
 - Visual Programming
-2. Computer Science Pedagogy
-3. Learning Analytics
-4. e-Learning
+- Computer Science Pedagogy
+- Learning Analytics
+- E-learning
 
 
 ## Courses Taught
 ---
-Undergraduate courses:
+##### Undergraduate Courses:
+- Mobile Application Development (React Native)
+- Web Technologies (HTML, CSS & JavaScript)
+- Web Application Development (Servlet, JSP, JavaBean, JDBC & MySQL)
+- Web Application Framework (Laravel)
+- Web Application Security (JSP, JDBC & MySQL)
+- Object-Oriented Programming (Java)
+- Elements of Programming (C/C++)
+- Data Structure & Algorithm (Java)
+- Management Information System
 
+##### Postgraduate Courses:
+- Enterprise Integration
+- Data Warehousing & Modelling
+- Tools for Data Science
 
 ## Phd Supervision
 ---
