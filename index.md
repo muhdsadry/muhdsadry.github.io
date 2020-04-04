@@ -5,17 +5,30 @@ I conducted a research on **visual programming** as part of learning and teachin
 
 ##   Research Areas
 ---
+I am interested in the following research areas:
+1. Visual Programming
+2. Computer Science Pedagogy
+3. Learning Analytics
 
 ## Courses Taught
 ---
 
+
 ## Phd Supervision
 ---
+
+
+## Publications
+---
+
+
+## SDG Project
+---
+
 
 ## Application Development Projects
 ---
 
-## SDG Project
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
