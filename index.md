@@ -17,7 +17,7 @@ I am currently conducting research in the following research areas:
 
 ### Courses Taught
 ---
-#### - Undergraduate Courses:
+#### Undergraduate Courses:
 - Mobile Application Development (React Native)
 - Web Technologies (HTML, CSS & JavaScript)
 - Web Application Development (Servlet, JSP, JavaBean, JDBC & MySQL)
