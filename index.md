@@ -16,6 +16,12 @@ I am currently conducting research in the following research areas:
 - E-learning
 
 ---
+### Teaching Philosophy
+
+---
+t
+
+---
 
 ### Courses Taught
 ---
