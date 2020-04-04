@@ -1,11 +1,11 @@
-##   Hi, I'm Sadry
+###   Hi, I'm Sadry
 
 ---
 I conducted a research on **visual programming** as part of learning and teaching tool for object-oriented programming for my doctoral degree. Before joining academia, I worked in IT industry for almost 4 years as a Software Engineer. I am currently teaching web and mobile application development courses at International Islamic University Malaysia (IIUM). 
 
 ---
 
-##   Research Areas
+###   Research Areas
 ---
 I am currently conducting research in the following research areas:
 - Visual Programming
@@ -14,7 +14,7 @@ I am currently conducting research in the following research areas:
 - E-learning
 
 
-## Courses Taught
+### Courses Taught
 ---
 #### Undergraduate Courses:
 - Mobile Application Development (React Native)
@@ -32,19 +32,19 @@ I am currently conducting research in the following research areas:
 - Data Warehousing & Modelling
 - Tools for Data Science
 
-## Phd Supervision
+### Phd Supervision
 ---
 
 
-## Publications
+### Publications
 ---
 
 
-## SDG Project
+### SDG Project
 ---
 
 
-## Application Development Projects
+### Application Development Projects
 ---
 
 [Project 1 Title](/sample_page)
