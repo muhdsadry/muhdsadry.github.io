@@ -10,7 +10,7 @@ I conducted a research on **visual programming** as part of learning and teachin
 
 ###   Research Areas
 ---
-I am currently conducting research in the following areas:
+I am actively doing research on the following areas:
 - Visual Programming
 - Computer Science Pedagogy
 - Learning Analytics
@@ -21,7 +21,7 @@ I am currently conducting research in the following areas:
 ### Teaching Philosophy
 
 ---
-I believe every student has different learning curve. Some are late and some ar early bloomers. This learning curve differe in terms of their learning style.
+I believe every student has different learning curve. Some are late and some are early bloomers. This learning curve different in terms of their learning style.
 
 ---
 
