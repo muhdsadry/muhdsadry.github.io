@@ -3,15 +3,19 @@
 ---
 I conducted a research on **visual programming** as part of learning and teaching tool for object-oriented programming for my doctoral degree. Before joining academia, I worked in IT industry for almost 4 years as a Software Engineer. I am currently teaching web and mobile application development courses at International Islamic University Malaysia (IIUM). 
 
+
 ##   Research Areas
 ---
-I am interested in the following research areas:
-1. Visual Programming
+I am currently conducting research in the following research areas:
+- Visual Programming
 2. Computer Science Pedagogy
 3. Learning Analytics
+4. e-Learning
+
 
 ## Courses Taught
 ---
+Undergraduate courses:
 
 
 ## Phd Supervision
