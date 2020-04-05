@@ -10,7 +10,7 @@ I conducted a research on **visual programming** as part of learning and teachin
 
 ###   Research Areas
 ---
-I am actively doing research on the following areas:
+I am actively doing research in these areas:
 - Visual Programming
 - Computer Science Pedagogy
 - Learning Analytics
@@ -95,6 +95,7 @@ I am currently involved in **E-Scroll Flagship Project**, which is part of IIUM 
 #### Consultancy Project
 
 [Sistem Padanan Peluang Pekerjaan Orang Kurang Upaya](https://spppkp.com/)
+
 <img src="images/spppkp.jpg?raw=true"/>
 
 ---
