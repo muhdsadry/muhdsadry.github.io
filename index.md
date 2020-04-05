@@ -22,7 +22,7 @@ I am actively doing research in these areas:
 ### Teaching Philosophy
 
 ---
-I believe every student has different learning curve. Regardless whether they are late or early bloomers, they deserve to acquire the same set of knowledge that being taught in class. This learning curve different in terms of their learning style.
+I believe every student has different learning curve and style. Regardless whether they are late or early bloomers, they deserve to acquire the same set of knowledge of what have been taught in class. This learning curve different in terms of their learning style.
 
 ---
 
@@ -79,7 +79,7 @@ I am currently involved in **E-Scroll Flagship Project**, which is part of IIUM 
 ---
 #### Faculty Projects
 
-[Project 1 Title](/sample_page)
+-- [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -94,7 +94,7 @@ I am currently involved in **E-Scroll Flagship Project**, which is part of IIUM 
 
 #### Consultancy Project
 
-[Sistem Padanan Peluang Pekerjaan Orang Kurang Upaya](https://spppkp.com/)
+-- [Sistem Padanan Peluang Pekerjaan Orang Kurang Upaya](https://spppkp.com/)
 
 <img src="images/spppkp.jpg?raw=true"/>
 
