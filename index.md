@@ -22,7 +22,7 @@ I am actively doing research in these areas:
 ### Teaching Philosophy
 
 ---
-I believe every student has different learning curve. Some are late and some are early bloomers. This learning curve different in terms of their learning style.
+I believe every student has different learning curve. Regardless whether they are late or early bloomers, they deserve to acquire the same set of knowledge that being taught in class. This learning curve different in terms of their learning style.
 
 ---
 
