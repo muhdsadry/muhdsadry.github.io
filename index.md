@@ -8,7 +8,7 @@ I conducted a research on **visual programming** as part of learning and teachin
 
 ---
 
-###   Research Areas
+###   Research Interests
 ---
 I am actively doing research in these areas:
 - Visual Programming
