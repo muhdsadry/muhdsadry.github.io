@@ -98,7 +98,7 @@ I am currently involved in **E-Scroll Flagship Project**, which is part of IIUM 
 
 - Consultant & Co-Developer
 
-<img src="images/spppkp.jpg?raw=true"/>
+- <img src="images/spppkp.jpg?raw=true"/>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
