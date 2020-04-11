@@ -17,6 +17,7 @@ I am actively doing research in these areas:
 - Web & Mobile Development
 - E-learning
 - Blockchain
+- Applied Artificial Intelligence
 
 
 ---
