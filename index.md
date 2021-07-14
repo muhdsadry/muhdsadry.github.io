@@ -33,7 +33,7 @@ I believe every student has different learning curve and style. Regardless wheth
 - Web Technologies (HTML, CSS & JavaScript)
 - Web Application Development (Servlet, JSP, JavaBean, JDBC & MySQL)
 - Web Application Framework (Laravel)
-- Web Application Security (JSP, JDBC & MySQL)
+- Web Application Security (OWASP Security Risks)
 - Object-Oriented Programming (Java)
 - Elements of Programming (C/C++)
 - Data Structure & Algorithm (Java)
