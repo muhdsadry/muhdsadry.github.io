@@ -16,9 +16,6 @@ I am actively doing research in these areas:
 - Learning Analytics
 - Web & Mobile Development
 - E-learning
-- Blockchain
-- Applied Artificial Intelligence
-
 
 ---
 ### Teaching Philosophy
