@@ -79,15 +79,15 @@ I am currently involved in **E-Scroll Flagship Project**, which is part of IIUM 
 
 #### Faculty Projects
 
-[Project 1 Title](/sample_page)
+[Final Year Project Dashboard](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Industrial Attachment Dashboard](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Postgraduate Dashboard](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -104,11 +104,11 @@ I am currently involved in **E-Scroll Flagship Project**, which is part of IIUM 
 
 #### National Project
 
-[Covid-19 MyTrace Malaysia](https://www.malaysia.gov.my/portal/content/30955)
+[MyTrace Malaysia](https://www.malaysia.gov.my/portal/content/30955)
 
 - Consultant & Co-Developer (Front-End)
 
-<img src="images/mytrace.PNG?raw=true" height="50%" width="50%" align="center"/>
+<img src="images/mytrace.PNG?raw=true" height="50%" width="50%"/>
 
 ---
 
