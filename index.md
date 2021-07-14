@@ -62,8 +62,9 @@ I believe every student has different learning curve and style. Regardless wheth
 
 ### Publications
 ---
-You can refer to my **Google Scholar** for the list of publications. These publications include journal, conference and book chapter.
+You can refer to my **Google Scholar** & **IIUM IREP** for the list of publications. These publications include journal, conference and book chapter.
 - [Google Scholar](https://scholar.google.com/citations?user=5jaLAUsAAAAJ&hl=en)
+- [IIUM IREP](http://irep.iium.edu.my/view/creators/Abu_Seman=3AMuhamad_Sadry=3A=3A.html)
 
 ---
 
