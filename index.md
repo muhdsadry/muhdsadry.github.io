@@ -29,7 +29,7 @@ I believe every student has different learning curve and style. Regardless wheth
 ---
 
 #### Undergraduate Courses:
-- Mobile Application Development (React Native)
+- Mobile Application Development (React Native & Flutter)
 - Web Technologies (HTML, CSS & JavaScript)
 - Web Application Development (Servlet, JSP, JavaBean, JDBC & MySQL)
 - Web Application Framework (Laravel)
@@ -41,8 +41,8 @@ I believe every student has different learning curve and style. Regardless wheth
 
 #### Postgraduate Courses:
 - Enterprise Integration
-- Data Warehousing & Modelling
-- Tools for Data Science
+- Data Warehousing & Modelling (ETL)
+- Tools for Data Science (Weka & Orange)
 
 
 ---
