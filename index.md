@@ -108,7 +108,7 @@ I am currently involved in **E-Scroll Flagship Project**, which is part of IIUM 
 
 - Consultant & Co-Developer (Front-End)
 
-<img src="images/mytrace.PNG?raw=true" height="50%" width="50%"/>
+<img src="images/mytrace.PNG?raw=true" height="50%" width="50%" align="center"/>
 
 ---
 
