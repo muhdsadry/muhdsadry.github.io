@@ -56,7 +56,7 @@ I believe every student has different learning curve and style. Regardless wheth
 3. Seyed Ebrahim Hosseini - **"Evaluation on the Effectiveness of Mobile Applications for Learning and Sharing of Islamic Knowledge: A Case Study of the International Islamic University Malaysia"**
 
 #### Phd Students
-1. Shahmurad Chandio - "A Model of ICT Acceptance by Academics: A Case in Sindh Province, Pakistan"
+1. Shahmurad Chandio - **"A Model of ICT Acceptance by Academics: A Case in Sindh Province, Pakistan"**
 ---
 
 ### Publications
