@@ -55,9 +55,6 @@ I believe every student has different learning curve and style. Regardless wheth
 
 #### Phd Students
 
-
-#### Undergraduate Students (Final Year Project)
-
 ---
 
 ### Publications
