@@ -57,7 +57,7 @@ I believe every student has different learning curve and style. Regardless wheth
 
 #### Phd Students
 1. **Shahmurad Chandio** - "A Model of ICT Acceptance by Academics: A Case in Sindh Province, Pakistan"
-2. **Qayyum Noor Ul** - "Bloom's Taxanomy based Assesment fo Computer Programing Code"
+2. **Qayyum Noor Ul** - "Bloom's Taxanomy Based Assesment for Computer Programing Code"
 
 
 ---
