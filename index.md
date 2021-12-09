@@ -54,6 +54,7 @@ I believe every student has different learning curve and style. Regardless wheth
 1. **Muhammad Zulhafizi Zulkipli** - "Predicting the Potential Risk of Getting Coronary Heart Disease in the Next 10 Years and its Relationship with Smoking Habit"
 2. **Sitti Munirah Abdul Razak** - "Transliteration of Old Jawi to Modern Jawi Using Statistical Machine Transliteration (SMT) Approach"
 3. **Seyed Ebrahim Hosseini** - "Evaluation on the Effectiveness of Mobile Applications for Learning and Sharing of Islamic Knowledge: A Case Study of the International Islamic University Malaysia"
+4. **Asyari Kautsar Taufiqurrahman** - "Examining Mediated Transfer Approach using ALICE as a Teaching Tool in an Object-Oriented Programming Course"
 
 #### Phd Students
 1. **Shahmurad Chandio** - "A Model of ICT Acceptance by Academics: A Case in Sindh Province, Pakistan"
