@@ -83,22 +83,22 @@ I am currently involved in **E-Scroll Flagship Project**, which is part of IIUM 
 
 #### Faculty Projects
 
-[Final Year Project Dashboard]
+**Final Year Project Dashboard**
 <img src="images/FYP Dashboard.png?raw=true"/>
 
 ---
-[Industrial Attachment Dashboard]
+**Industrial Attachment Dashboard**
 <img src="images/IAP Dashboard.png?raw=true"/>
 
 ---
-[Postgraduate Dashboard]
+**Postgraduate Dashboard**
 <img src="images/PG Dashboard.png?raw=true"/>
 
 ---
 
 #### Consultancy Project
 
-[Sistem Padanan Peluang Pekerjaan Orang Kurang Upaya](https://spppkp.com/)
+**Sistem Padanan Peluang Pekerjaan Orang Kurang Upaya**
 
 - Consultant & Co-Developer
 
