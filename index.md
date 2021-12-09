@@ -83,15 +83,15 @@ I am currently involved in **E-Scroll Flagship Project**, which is part of IIUM 
 
 #### Faculty Projects
 
-[Final Year Project Dashboard](/sample_page)
+[Final Year Project Dashboard]
 <img src="images/FYP Dashboard.png?raw=true"/>
 
 ---
-[Industrial Attachment Dashboard](/pdf/sample_presentation.pdf)
+[Industrial Attachment Dashboard]
 <img src="images/IAP Dashboard.png?raw=true"/>
 
 ---
-[Postgraduate Dashboard](http://example.com/)
+[Postgraduate Dashboard]
 <img src="images/PG Dashboard.png?raw=true"/>
 
 ---
